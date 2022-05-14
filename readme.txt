@@ -1,5 +1,5 @@
 /*****************************************************************************/
-/**  MATLAB CODES WILL BE INCLUDED AFTER THE MANUSCRIPT HAS BEEN ACCEPTED.  **/ 
+/**  MATLAB CODES.  **/ 
 /*****************************************************************************/
 
 Alternative Expressions of the PDF and CDF for Gamma, η-μ and κ-μ Shadowed
